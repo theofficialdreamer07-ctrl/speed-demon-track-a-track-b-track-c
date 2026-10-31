@@ -1,4 +1,5 @@
 """Container entrypoint for the reference implementations.
+
 The harness runs every image with `-e TRACK=<a|b|c|d>`, so one reference
 image serves all four tracks.
 """
